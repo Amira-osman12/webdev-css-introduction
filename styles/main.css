@@ -18,3 +18,15 @@ body{
     width: 800px;
 }     
 
+
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #ccc;
+    padding:5px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:5px;
+}
