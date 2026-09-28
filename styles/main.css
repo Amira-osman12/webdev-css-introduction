@@ -1,3 +1,20 @@
+p.blue{
+   color:blue;
+}
+
+
 body{
     background-color: rgb(240, 232, 232);
+    font-family: 'Courier New', Courier, monospace;
 }
+
+#footer{
+    background-color: whitesmoke;
+    border: 4px;
+}
+
+.container{   /* centers website content to the middle */
+    margin: auto;
+    width: 800px;
+}     
+
